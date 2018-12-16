@@ -83,8 +83,18 @@ As described in the previous section:
 
 Here is an example of the expected solution file to compute based on the data of the previous input file. In this case, it implements a stable mariage between schools and students, based on their respective wish lists.
 
+The output format is a single line sequence of integers representing recruitments according to a position-based approach:
+
 ```
 1 2 1 1 2 1 4 0 3 2
 ```
 
+It means that :
+
+  - Student #0 (here Geraldine) is recruited by school #1 (here Université_Clermont-Auvergne)
+  - Student #1 (Filipe) is recruited by school #2 (Universitée_d’Angers)
+  - ...
+  - Student #10 (Océane) is also recruited by school #2.
+
+If a student cannot be recruited in any school, the associated output is an `X`.
 
