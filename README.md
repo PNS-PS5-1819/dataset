@@ -94,7 +94,7 @@ It means that :
   - Student #0 (here Geraldine) is recruited by school #1 (here Université_Clermont-Auvergne)
   - Student #1 (Filipe) is recruited by school #2 (Universitée_d’Angers)
   - ...
-  - Student #10 (Océane) is also recruited by school #2.
+  - Student #9 (Océane) is also recruited by school #2.
 
 If a student cannot be recruited in any school, the associated output is an `X`.
 
