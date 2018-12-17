@@ -35,7 +35,7 @@ A student profile is made of (5+**W**) data, spaces-separated, presented in the 
 
 Then the third and last section contains **S** lines, each describing a school profile.
 
-A school profile is made of 4 data, spaces-separated, presented in the following order:
+A school profile is made of 5 data, spaces-separated, presented in the following order:
 
   - `school name` ;
   - its `capacity` *i.e.* the number (integer) of students that the school can welcome this year ;
